@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Rancho&display=swap');
+
+.container{
+   background-image: url("images/bday.jpg");
+   background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90rem;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Rancho', cursive;
+}
+
+.container-heading{
+    margin-left:30rem;
+    color:cyan;
+    font-size: 3rem;
+}
+#label-dob{
+    margin-left:30rem ;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    padding-bottom: 10rem;
+    padding: 2rem;
+    font-size:2rem ;
+    color: turquoise;
+}
+#dob{
+    margin: 2rem;
+    outline: none;
+    color: turquoise;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: turquoise;
+}
+#label-lucky-number{
+    margin-left:22rem ;
+    margin-top: 2rem;
+    padding: 2rem;
+    font-size:2rem ;
+    color: turquoise;
+}
+#lucky-number{
+    width: 11%;
+    color: turquoise;
+    text-align: center;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: turquoise;
+    outline: none;
+}
+#check-number{
+    margin-left: 40rem;
+    margin-top: 5rem;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Rancho', cursive;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color:turquoise;
+    font-size: 1.5rem;
+    color:turquoise;
+    background-color: whitesmoke;
+    cursor:pointer;
+}
+#output-text{
+    margin-left: 30rem;
+    margin-top: 5rem;
+    width: 25rem;
+    height: 5rem;
+    color:teal;
+    font-size: 2rem;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Rancho', cursive;
+    padding: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color:turquoise;
+}
+
+
